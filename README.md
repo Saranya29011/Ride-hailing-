@@ -3,13 +3,13 @@
 
 # Backend Setup
 
-### 1️⃣ Navigate to backend
+### Navigate to backend
 
 ```bash
 cd Backend
 ```
 
-### 2️⃣ Create virtual environment (recommended)
+### Create virtual environment (recommended)
 
 ```bash
 python -m venv venv
@@ -29,13 +29,13 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3️⃣ Install dependencies
+### Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the backend server
+### Run the backend server
 
 ```bash
 uvicorn main:app --reload
@@ -51,19 +51,19 @@ http://127.0.0.1:8000
 
 # Frontend Setup
 
-### 1️⃣ Navigate to frontend
+### Navigate to frontend
 
 ```bash
 cd Frontend
 ```
 
-### 2️⃣ Install dependencies
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3️⃣ Run development server
+###  Run development server
 
 ```bash
 npm run dev
@@ -80,7 +80,7 @@ http://localhost:5173
 
 
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 **Backend**
 
