@@ -79,20 +79,3 @@ http://localhost:5173
 
 
 
-
-# Technologies Used
-
-**Backend**
-
-* Python
-* FastAPI
-* Uvicorn
-
-**Frontend**
-
-* React
-* Vite
-* JavaScript
-* CSS
-
-
