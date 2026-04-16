@@ -1,27 +1,4 @@
-# Ride-hailing-
----
-
-# Project Structure
-
-```
-Car-pred-main
-│
-├── Backend
-│   ├── main.py
-│   ├── requirements.txt
-│   ├── cache/
-│   └── Readme.md
-│
-├── Frontend
-│   ├── src/
-│   ├── public/
-│   ├── index.html
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md
-```
-
+# Ride-hailing
 ---
 
 # Backend Setup
